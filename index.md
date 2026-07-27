@@ -1,7 +1,8 @@
 # ARTIFICIAL INTELLIGENCE AND ITS ROLE IN CYBERSECURITY
 An Overview
-**Author:** Christina Banks
-**Date:** March 2025
+
+## **Author:** Christina Banks
+## **Date:** March 2025
  
 ## Introduction
 
