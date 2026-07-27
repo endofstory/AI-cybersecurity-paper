@@ -22,7 +22,7 @@ Another application of AI and, more specifically, computer vision and machine le
 
 One of the most important applications of AI has been in cybersecurity. As cyber threats grow in complexity and frequency, traditional security measures can struggle to keep pace. AI models can be trained to recognize malware and malware-related signatures. Over time, AI learns how to recognize emerging threats, including new malware strains. With the ability to analyze vast amounts of network traffic, AI can also enhance threat intelligence by learning to recognize patterns of intrusion and other anomalous behaviors and predict the likelihood of a successful attack (Buczak & Guven, 2016.) Additionally, AI-powered tools speed up incident response, containing damage due to a breach (Goodman, 2025). 
 
-Strengths, Weaknesses, Opportunities and Threats (SWOT) for using AI
+## Strengths, Weaknesses, Opportunities and Threats (SWOT) for using AI
 
 SWOT, or strengths, weaknesses, opportunities and threats, is a strategic planning tool used for identifying and analyzing the strengths, weaknesses, opportunities and threats related to a business or project (Bigelow, 2023.) The purpose is to inform decision makers of the internal and external factors that can affect, for better or worse, the outcomes of those chosen business decisions. 
 
